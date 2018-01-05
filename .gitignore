@@ -9,7 +9,5 @@
 .externalNativeBuild
 gradlew
 gradlew.bat
-app/
 .idea/
-app/
 gradle/
